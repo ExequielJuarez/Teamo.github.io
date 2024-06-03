@@ -18,7 +18,7 @@
 width: 100px;
   z-index: 1;
   bottom: 360px;
-  right: 150px;
+  right: 200px;
   position: absolute;
 }
 
@@ -26,7 +26,7 @@ width: 100px;
   width: 100px;
     z-index: 1;
     bottom: 360px;
-    left: 150px;
+    left: 200px;
     position: absolute;
   }
 :root {
